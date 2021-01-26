@@ -2,27 +2,16 @@
     margin: 0;
 }
 
-#divview{
-    width: 100px;
-    height: 100px;
-    border-radius: 100%;
-    display:inline-block;
-    background-color:"silver";
-    text-align: center;
-    padding-top: 20px;
-    font-weight: lighter;
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-#divview:hover{
-    cursor: pointer;
-}
-
 #divlogo{
-    color:White;
+    color:;
     height:70px;
     width:99%;
     margin-left:1%;
-    border:;
     border-radius:10px;
     text-align: center;
     padding-top: 10px;
@@ -30,14 +19,11 @@
 }
 #divbtn{
     display: inline-block;
-    width: 30%;
+    width: 32%;
     height: 200px;
-    border: solid;
-    margin-top: 23%;
-    margin-left: 1.5%;
-    background-color: white;
+    margin-top: 1%;
+    margin-left:;
     border-radius: 10px;
     font-size: 25px;
-    color: black;
     text-align: center;
 }
