@@ -3,6 +3,7 @@ var a = document.getElementById("div2")
 var b = document.getElementById("div3")
 var c = document.getElementById("div4")
 
+//new commit
 
 window.onload = function() {
     redimenciona()
